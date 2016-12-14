@@ -1,9 +1,11 @@
 package ver4_1;
 
 public class ChinaTire implements Tire{
+
 	@Override
-	public String getModel(){
+	public String getModel() {
 		return "대륙";
 	}
+	
 
 }
