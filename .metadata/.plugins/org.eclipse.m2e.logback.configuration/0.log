@@ -266,3 +266,7 @@ java.io.FileNotFoundException: /Users/LeeseoYee/Documents/JavaWebAppCourse/Sprin
 2016-12-15 10:32:02,301 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/LeeseoYee/Documents/JavaWebAppCourse-git/SpringWithTeacher/SpringDay01/src/main/resources
 2016-12-15 10:32:02,303 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
 2016-12-15 10:32:02,304 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/LeeseoYee/Documents/JavaWebAppCourse-git/SpringWithTeacher/SpringDay01/src/test/resources
+2016-12-15 10:33:04,899 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-15 10:33:04,899 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/LeeseoYee/Documents/JavaWebAppCourse-git/SpringWithTeacher/SpringDay01/src/main/resources
+2016-12-15 10:33:04,901 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-15 10:33:04,902 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/LeeseoYee/Documents/JavaWebAppCourse-git/SpringWithTeacher/SpringDay01/src/test/resources
