@@ -382,3 +382,195 @@ java.io.FileNotFoundException: /Users/LeeseoYee/Documents/JavaWebAppCourse/Sprin
 2016-12-15 12:43:19,796 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/LeeseoYee/Documents/JavaWebAppCourse-git/SpringWithTeacher/SpringDay02/src/main/resources
 2016-12-15 12:43:19,798 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
 2016-12-15 12:43:19,799 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/LeeseoYee/Documents/JavaWebAppCourse-git/SpringWithTeacher/SpringDay02/src/test/resources
+2016-12-15 12:49:28,568 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-15 12:49:28,569 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/LeeseoYee/Documents/JavaWebAppCourse-git/SpringWithTeacher/SpringDay02/src/main/resources
+2016-12-15 12:49:28,570 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-15 12:49:28,571 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/LeeseoYee/Documents/JavaWebAppCourse-git/SpringWithTeacher/SpringDay02/src/test/resources
+2016-12-15 12:49:46,030 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-15 12:49:46,031 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/LeeseoYee/Documents/JavaWebAppCourse-git/SpringWithTeacher/SpringDay02/src/main/resources
+2016-12-15 12:49:46,033 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-15 12:49:46,036 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/LeeseoYee/Documents/JavaWebAppCourse-git/SpringWithTeacher/SpringDay02/src/test/resources
+2016-12-15 12:49:57,967 [Worker-65] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-15 12:49:57,968 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/LeeseoYee/Documents/JavaWebAppCourse-git/SpringWithTeacher/SpringDay02/src/main/resources
+2016-12-15 12:49:57,970 [Worker-65] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-15 12:49:57,971 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/LeeseoYee/Documents/JavaWebAppCourse-git/SpringWithTeacher/SpringDay02/src/test/resources
+2016-12-15 12:50:04,842 [Worker-65] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-15 12:50:04,843 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/LeeseoYee/Documents/JavaWebAppCourse-git/SpringWithTeacher/SpringDay02/src/main/resources
+2016-12-15 12:50:04,844 [Worker-65] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-15 12:50:04,845 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/LeeseoYee/Documents/JavaWebAppCourse-git/SpringWithTeacher/SpringDay02/src/test/resources
+2016-12-15 12:50:14,472 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-15 12:50:14,472 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/LeeseoYee/Documents/JavaWebAppCourse-git/SpringWithTeacher/SpringDay02/src/main/resources
+2016-12-15 12:50:14,479 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-15 12:50:14,480 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/LeeseoYee/Documents/JavaWebAppCourse-git/SpringWithTeacher/SpringDay02/src/test/resources
+2016-12-15 12:50:20,573 [Worker-66] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-15 12:50:20,573 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/LeeseoYee/Documents/JavaWebAppCourse-git/SpringWithTeacher/SpringDay02/src/main/resources
+2016-12-15 12:50:20,575 [Worker-66] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-15 12:50:20,576 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/LeeseoYee/Documents/JavaWebAppCourse-git/SpringWithTeacher/SpringDay02/src/test/resources
+2016-12-15 12:50:33,899 [Worker-66] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-15 12:50:33,900 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/LeeseoYee/Documents/JavaWebAppCourse-git/SpringWithTeacher/SpringDay02/src/main/resources
+2016-12-15 12:50:33,902 [Worker-66] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-15 12:50:33,903 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/LeeseoYee/Documents/JavaWebAppCourse-git/SpringWithTeacher/SpringDay02/src/test/resources
+2016-12-15 12:50:34,915 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-15 12:50:34,915 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/LeeseoYee/Documents/JavaWebAppCourse-git/SpringWithTeacher/SpringDay02/src/main/resources
+2016-12-15 12:50:34,916 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-15 12:50:34,917 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/LeeseoYee/Documents/JavaWebAppCourse-git/SpringWithTeacher/SpringDay02/src/test/resources
+2016-12-15 12:50:59,166 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-15 12:50:59,167 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/LeeseoYee/Documents/JavaWebAppCourse-git/SpringWithTeacher/SpringDay02/src/main/resources
+2016-12-15 12:50:59,168 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-15 12:50:59,169 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/LeeseoYee/Documents/JavaWebAppCourse-git/SpringWithTeacher/SpringDay02/src/test/resources
+2016-12-15 12:51:31,921 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-15 12:51:31,922 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/LeeseoYee/Documents/JavaWebAppCourse-git/SpringWithTeacher/SpringDay02/src/main/resources
+2016-12-15 12:51:31,924 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-15 12:51:31,924 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/LeeseoYee/Documents/JavaWebAppCourse-git/SpringWithTeacher/SpringDay02/src/test/resources
+2016-12-15 12:52:12,393 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-15 12:52:12,394 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/LeeseoYee/Documents/JavaWebAppCourse-git/SpringWithTeacher/SpringDay02/src/main/resources
+2016-12-15 12:52:12,396 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-15 12:52:12,396 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/LeeseoYee/Documents/JavaWebAppCourse-git/SpringWithTeacher/SpringDay02/src/test/resources
+2016-12-15 12:59:52,896 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-15 12:59:52,897 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/LeeseoYee/Documents/JavaWebAppCourse-git/SpringWithTeacher/SpringDay02/src/main/resources
+2016-12-15 12:59:52,898 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-15 12:59:52,899 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/LeeseoYee/Documents/JavaWebAppCourse-git/SpringWithTeacher/SpringDay02/src/test/resources
+2016-12-15 13:00:50,890 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-15 13:00:50,890 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/LeeseoYee/Documents/JavaWebAppCourse-git/SpringWithTeacher/SpringDay02/src/main/resources
+2016-12-15 13:00:50,893 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-15 13:00:50,894 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/LeeseoYee/Documents/JavaWebAppCourse-git/SpringWithTeacher/SpringDay02/src/test/resources
+2016-12-15 13:05:57,373 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-15 13:05:57,374 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/LeeseoYee/Documents/JavaWebAppCourse-git/SpringWithTeacher/SpringDay02/src/main/resources
+2016-12-15 13:05:57,375 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-15 13:05:57,376 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/LeeseoYee/Documents/JavaWebAppCourse-git/SpringWithTeacher/SpringDay02/src/test/resources
+2016-12-15 13:05:58,478 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-15 13:05:58,481 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/LeeseoYee/Documents/JavaWebAppCourse-git/SpringWithTeacher/SpringDay02/src/main/resources
+2016-12-15 13:05:58,482 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-15 13:05:58,483 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/LeeseoYee/Documents/JavaWebAppCourse-git/SpringWithTeacher/SpringDay02/src/test/resources
+2016-12-15 13:07:13,515 [Worker-69] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-15 13:07:13,516 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/LeeseoYee/Documents/JavaWebAppCourse-git/SpringWithTeacher/SpringDay02/src/main/resources
+2016-12-15 13:07:13,518 [Worker-69] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-15 13:07:13,518 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/LeeseoYee/Documents/JavaWebAppCourse-git/SpringWithTeacher/SpringDay02/src/test/resources
+2016-12-15 13:09:41,808 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-15 13:09:41,809 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/LeeseoYee/Documents/JavaWebAppCourse-git/SpringWithTeacher/SpringDay02/src/main/resources
+2016-12-15 13:09:41,810 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-15 13:09:41,811 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/LeeseoYee/Documents/JavaWebAppCourse-git/SpringWithTeacher/SpringDay02/src/test/resources
+2016-12-15 13:10:50,939 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-15 13:10:50,942 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/LeeseoYee/Documents/JavaWebAppCourse-git/SpringWithTeacher/SpringDay02/src/main/resources
+2016-12-15 13:10:50,943 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-15 13:10:50,944 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/LeeseoYee/Documents/JavaWebAppCourse-git/SpringWithTeacher/SpringDay02/src/test/resources
+2016-12-15 13:12:14,658 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-15 13:12:14,659 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/LeeseoYee/Documents/JavaWebAppCourse-git/SpringWithTeacher/SpringDay02/src/main/resources
+2016-12-15 13:12:14,660 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-15 13:12:14,661 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/LeeseoYee/Documents/JavaWebAppCourse-git/SpringWithTeacher/SpringDay02/src/test/resources
+2016-12-15 13:12:55,917 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-15 13:12:55,918 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/LeeseoYee/Documents/JavaWebAppCourse-git/SpringWithTeacher/SpringDay02/src/main/resources
+2016-12-15 13:12:55,920 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-15 13:12:55,920 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/LeeseoYee/Documents/JavaWebAppCourse-git/SpringWithTeacher/SpringDay02/src/test/resources
+2016-12-15 13:13:28,533 [Worker-72] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-15 13:13:28,534 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/LeeseoYee/Documents/JavaWebAppCourse-git/SpringWithTeacher/SpringDay02/src/main/resources
+2016-12-15 13:13:28,535 [Worker-72] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-15 13:13:28,535 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/LeeseoYee/Documents/JavaWebAppCourse-git/SpringWithTeacher/SpringDay02/src/test/resources
+2016-12-15 13:14:02,056 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-15 13:14:02,056 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/LeeseoYee/Documents/JavaWebAppCourse-git/SpringWithTeacher/SpringDay02/src/main/resources
+2016-12-15 13:14:02,058 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-15 13:14:02,061 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/LeeseoYee/Documents/JavaWebAppCourse-git/SpringWithTeacher/SpringDay02/src/test/resources
+2016-12-15 13:22:00,145 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-15 13:22:00,146 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/LeeseoYee/Documents/JavaWebAppCourse-git/SpringWithTeacher/SpringDay02/src/main/resources
+2016-12-15 13:22:00,147 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-15 13:22:00,148 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/LeeseoYee/Documents/JavaWebAppCourse-git/SpringWithTeacher/SpringDay02/src/test/resources
+2016-12-15 13:22:17,900 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-15 13:22:17,901 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/LeeseoYee/Documents/JavaWebAppCourse-git/SpringWithTeacher/SpringDay02/src/main/resources
+2016-12-15 13:22:17,902 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-15 13:22:17,903 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/LeeseoYee/Documents/JavaWebAppCourse-git/SpringWithTeacher/SpringDay02/src/test/resources
+2016-12-15 13:22:27,766 [Worker-69] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-15 13:22:27,766 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/LeeseoYee/Documents/JavaWebAppCourse-git/SpringWithTeacher/SpringDay02/src/main/resources
+2016-12-15 13:22:27,767 [Worker-69] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-15 13:22:27,768 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/LeeseoYee/Documents/JavaWebAppCourse-git/SpringWithTeacher/SpringDay02/src/test/resources
+2016-12-15 13:23:03,841 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-15 13:23:03,842 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/LeeseoYee/Documents/JavaWebAppCourse-git/SpringWithTeacher/SpringDay02/src/main/resources
+2016-12-15 13:23:03,844 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-15 13:23:03,844 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/LeeseoYee/Documents/JavaWebAppCourse-git/SpringWithTeacher/SpringDay02/src/test/resources
+2016-12-15 13:25:12,878 [Worker-76] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-15 13:25:12,879 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/LeeseoYee/Documents/JavaWebAppCourse-git/SpringWithTeacher/SpringDay02/src/main/resources
+2016-12-15 13:25:12,880 [Worker-76] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-15 13:25:12,881 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/LeeseoYee/Documents/JavaWebAppCourse-git/SpringWithTeacher/SpringDay02/src/test/resources
+2016-12-15 14:01:05,665 [Worker-94] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-15 14:01:05,671 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/LeeseoYee/Documents/JavaWebAppCourse-git/SpringWithTeacher/SpringDay02/src/main/resources
+2016-12-15 14:01:05,672 [Worker-94] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-15 14:01:05,673 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/LeeseoYee/Documents/JavaWebAppCourse-git/SpringWithTeacher/SpringDay02/src/test/resources
+2016-12-15 14:01:49,872 [Worker-94] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-15 14:01:49,872 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/LeeseoYee/Documents/JavaWebAppCourse-git/SpringWithTeacher/SpringDay02/src/main/resources
+2016-12-15 14:01:49,873 [Worker-94] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-15 14:01:49,874 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/LeeseoYee/Documents/JavaWebAppCourse-git/SpringWithTeacher/SpringDay02/src/test/resources
+2016-12-15 14:05:01,672 [Worker-102] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-15 14:05:01,673 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/LeeseoYee/Documents/JavaWebAppCourse-git/SpringWithTeacher/SpringDay02/src/main/resources
+2016-12-15 14:05:01,677 [Worker-102] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-15 14:05:01,677 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/LeeseoYee/Documents/JavaWebAppCourse-git/SpringWithTeacher/SpringDay02/src/test/resources
+2016-12-15 14:05:04,390 [Worker-101] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-15 14:05:04,391 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/LeeseoYee/Documents/JavaWebAppCourse-git/SpringWithTeacher/SpringDay02/src/main/resources
+2016-12-15 14:05:04,392 [Worker-101] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-15 14:05:04,393 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/LeeseoYee/Documents/JavaWebAppCourse-git/SpringWithTeacher/SpringDay02/src/test/resources
+2016-12-15 14:10:29,202 [Worker-104] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-15 14:10:29,203 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/LeeseoYee/Documents/JavaWebAppCourse-git/SpringWithTeacher/SpringDay02/src/main/resources
+2016-12-15 14:10:29,204 [Worker-104] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-15 14:10:29,206 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/LeeseoYee/Documents/JavaWebAppCourse-git/SpringWithTeacher/SpringDay02/src/test/resources
+2016-12-15 14:21:39,390 [Worker-104] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-15 14:21:39,392 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/LeeseoYee/Documents/JavaWebAppCourse-git/SpringWithTeacher/SpringDay02/src/main/resources
+2016-12-15 14:21:39,393 [Worker-104] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-15 14:21:39,394 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/LeeseoYee/Documents/JavaWebAppCourse-git/SpringWithTeacher/SpringDay02/src/test/resources
+2016-12-15 14:22:11,427 [Worker-110] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-15 14:22:11,428 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/LeeseoYee/Documents/JavaWebAppCourse-git/SpringWithTeacher/SpringDay02/src/main/resources
+2016-12-15 14:22:11,429 [Worker-110] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-15 14:22:11,432 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/LeeseoYee/Documents/JavaWebAppCourse-git/SpringWithTeacher/SpringDay02/src/test/resources
+2016-12-15 14:28:13,296 [Worker-102] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-15 14:28:13,303 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/LeeseoYee/Documents/JavaWebAppCourse-git/SpringWithTeacher/SpringDay03/src/main/resources
+2016-12-15 14:28:13,306 [Worker-102] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-15 14:28:13,307 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/LeeseoYee/Documents/JavaWebAppCourse-git/SpringWithTeacher/SpringDay03/src/test/resources
+2016-12-15 14:29:12,837 [Worker-112] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-15 14:29:12,838 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/LeeseoYee/Documents/JavaWebAppCourse-git/SpringWithTeacher/SpringDay03/src/main/resources
+2016-12-15 14:29:12,839 [Worker-112] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-15 14:29:12,840 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/LeeseoYee/Documents/JavaWebAppCourse-git/SpringWithTeacher/SpringDay03/src/test/resources
+2016-12-15 14:29:24,064 [Worker-110] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-15 14:29:24,065 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/LeeseoYee/Documents/JavaWebAppCourse-git/SpringWithTeacher/SpringDay03/src/main/resources
+2016-12-15 14:29:24,067 [Worker-110] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-15 14:29:24,069 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/LeeseoYee/Documents/JavaWebAppCourse-git/SpringWithTeacher/SpringDay03/src/test/resources
+2016-12-15 14:32:37,195 [Worker-115] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-15 14:32:37,196 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/LeeseoYee/Documents/JavaWebAppCourse-git/SpringWithTeacher/SpringDay03/src/main/resources
+2016-12-15 14:32:37,197 [Worker-115] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-15 14:32:37,198 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/LeeseoYee/Documents/JavaWebAppCourse-git/SpringWithTeacher/SpringDay03/src/test/resources
+2016-12-15 14:36:58,504 [Worker-115] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-15 14:36:58,505 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/LeeseoYee/Documents/JavaWebAppCourse-git/SpringWithTeacher/SpringDay03/src/main/resources
+2016-12-15 14:36:58,506 [Worker-115] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-15 14:36:58,506 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/LeeseoYee/Documents/JavaWebAppCourse-git/SpringWithTeacher/SpringDay03/src/test/resources
+2016-12-15 14:37:35,482 [Worker-112] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-15 14:37:35,483 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/LeeseoYee/Documents/JavaWebAppCourse-git/SpringWithTeacher/SpringDay03/src/main/resources
+2016-12-15 14:37:35,485 [Worker-112] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-15 14:37:35,485 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/LeeseoYee/Documents/JavaWebAppCourse-git/SpringWithTeacher/SpringDay03/src/test/resources
+2016-12-15 14:37:53,342 [Worker-114] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-15 14:37:53,343 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/LeeseoYee/Documents/JavaWebAppCourse-git/SpringWithTeacher/SpringDay03/src/main/resources
+2016-12-15 14:37:53,344 [Worker-114] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-15 14:37:53,345 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/LeeseoYee/Documents/JavaWebAppCourse-git/SpringWithTeacher/SpringDay03/src/test/resources
+2016-12-15 14:38:03,072 [Worker-112] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-15 14:38:03,073 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/LeeseoYee/Documents/JavaWebAppCourse-git/SpringWithTeacher/SpringDay03/src/main/resources
+2016-12-15 14:38:03,074 [Worker-112] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-15 14:38:03,076 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/LeeseoYee/Documents/JavaWebAppCourse-git/SpringWithTeacher/SpringDay03/src/test/resources
+2016-12-15 14:41:13,437 [Worker-111] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-15 14:41:13,438 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/LeeseoYee/Documents/JavaWebAppCourse-git/SpringWithTeacher/SpringDay03/src/main/resources
+2016-12-15 14:41:13,443 [Worker-111] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-15 14:41:13,443 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/LeeseoYee/Documents/JavaWebAppCourse-git/SpringWithTeacher/SpringDay03/src/test/resources
+2016-12-15 14:41:14,943 [Worker-115] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-15 14:41:14,943 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/LeeseoYee/Documents/JavaWebAppCourse-git/SpringWithTeacher/SpringDay03/src/main/resources
+2016-12-15 14:41:14,945 [Worker-115] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-15 14:41:14,945 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/LeeseoYee/Documents/JavaWebAppCourse-git/SpringWithTeacher/SpringDay03/src/test/resources
+2016-12-15 15:48:12,478 [Worker-135] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-15 15:48:12,481 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/LeeseoYee/Documents/JavaWebAppCourse-git/SpringWithTeacher/SpringDay03/src/main/resources
+2016-12-15 15:48:12,482 [Worker-135] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-15 15:48:12,483 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/LeeseoYee/Documents/JavaWebAppCourse-git/SpringWithTeacher/SpringDay03/src/test/resources
+2016-12-15 16:22:30,438 [Worker-146] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-15 16:22:30,439 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/LeeseoYee/Documents/JavaWebAppCourse-git/SpringWithTeacher/SpringDay03/src/main/resources
+2016-12-15 16:22:30,440 [Worker-146] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-15 16:22:30,445 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/LeeseoYee/Documents/JavaWebAppCourse-git/SpringWithTeacher/SpringDay03/src/test/resources
+2016-12-15 16:22:32,134 [Worker-143] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-15 16:22:32,135 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/LeeseoYee/Documents/JavaWebAppCourse-git/SpringWithTeacher/SpringDay03/src/main/resources
+2016-12-15 16:22:32,137 [Worker-143] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-15 16:22:32,137 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/LeeseoYee/Documents/JavaWebAppCourse-git/SpringWithTeacher/SpringDay03/src/test/resources
+2016-12-15 16:23:27,065 [Worker-139] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-15 16:23:27,066 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/LeeseoYee/Documents/JavaWebAppCourse-git/SpringWithTeacher/SpringDay03/src/main/resources
+2016-12-15 16:23:27,068 [Worker-139] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-15 16:23:27,069 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/LeeseoYee/Documents/JavaWebAppCourse-git/SpringWithTeacher/SpringDay03/src/test/resources
