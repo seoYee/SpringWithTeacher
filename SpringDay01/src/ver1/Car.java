@@ -1,5 +1,5 @@
 package ver1;
- 
+//제대로 저장되나? 
 // Car 객체는 Tire 객체를 의존함.
 // (Service 클래스 객체는 Dao 객체가 필요함)
 public class Car {
