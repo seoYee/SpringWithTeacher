@@ -1,0 +1,18 @@
+package ver1;
+
+import java.util.Random;
+
+public class Boy implements Person{
+
+	@Override
+	public void makeFood() {
+		System.out.println("배가 고프다.");
+		
+		System.out.println("냉면을 만든다.");
+		if(new Random().nextBoolean()){
+			
+		}
+	}
+	
+
+}
