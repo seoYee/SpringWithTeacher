@@ -1,0 +1,23 @@
+package test01_spring;
+
+import java.sql.ResultSet;
+import java.sql.SQLException;
+
+import org.springframework.jdbc.core.JdbcTemplate;
+import org.springframework.jdbc.core.RowMapper;
+
+import test01_spring.vo.BookVO;
+
+public class BookDao {
+	private JdbcTemplate jdbcTemplate;
+	
+	class BookMapper implements RowMapper<BookVO>{
+
+		@Override
+		public BookVO mapRow(ResultSet arg0, int arg1) throws SQLException {
+			return null;
+		}
+		
+	}
+
+}

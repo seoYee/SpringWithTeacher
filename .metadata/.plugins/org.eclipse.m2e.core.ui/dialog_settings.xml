@@ -14,11 +14,15 @@
 	</section>
 	<section name="wizardPage">
 		<list key="groupId">
+			<item value="SpriingDay11AOP"/>
+			<item value="SpringDay04DB"/>
 			<item value="SpringDay09AOP"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="SpriingDay11AOP"/>
+			<item value="SpringDay04DB"/>
 			<item value="SpringDay09AOP"/>
 		</list>
 		<list key="version">
