@@ -15,7 +15,7 @@ public class MemberDao {
 	public void setSession(SqlSessionTemplate session){
 		this.session = session;
 	}
-	//
+	
 	public int insert(Member member){
 		MemberMapper mapper = session.getMapper(MemberMapper.class);
 		return mapper.insertMember(member);
