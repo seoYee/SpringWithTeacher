@@ -14,6 +14,7 @@
 	</section>
 	<section name="wizardPage">
 		<list key="groupId">
+			<item value="SpringDay13Login"/>
 			<item value="SpringDay12MVC2"/>
 			<item value="SpringDay12MVC"/>
 			<item value="SpringDay05DB"/>
@@ -24,6 +25,7 @@
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="SpringDay13Login"/>
 			<item value="SpringDay12MVC2"/>
 			<item value="SpringDay12MVC"/>
 			<item value="SpringDay05DB"/>

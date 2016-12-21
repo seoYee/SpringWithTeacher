@@ -4,6 +4,8 @@ import javax.servlet.http.HttpServletRequest;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestMethod;
+import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.servlet.ModelAndView;
 
 @Controller
@@ -17,17 +19,36 @@ public class LoginController {
 	}
 	
 //	Get, Post 방식 지정 가능
-	@RequestMapping("/login.do")
-	public ModelAndView login(String userId, String userPw){
+	@RequestMapping(value="/login.do", method=RequestMethod.POST)
+//	form의 name과 파라미터 이름을 다르게 하고 싶을 때 , defaultValue도 설정 가능.
+//	parameter은 원래 무조건 String이어야 하지만 숫자형태의 parameter도 가능.
+	public ModelAndView login(@RequestParam(value="userId",defaultValue="noname") String id, @RequestParam("userPw") String pw, int num){
+		
+		System.out.println(num+1);
+		
 		ModelAndView mv = new ModelAndView();
-		if(userId.equals(userPw)){
+		if(id.equals(pw)){
 			mv.setViewName("login_success");
 			mv.addObject("msg", "로그인 성공입니다.!");
-			mv.addObject("loginId", userId);
+			mv.addObject("loginId", id);
 			
 		}else{
 			mv.setViewName("login_error");
 		}
 		return mv;
 	}
+//	
+	
+//	public ModelAndView login(String userId, String userPw){
+//		ModelAndView mv = new ModelAndView();
+//		if(userId.equals(userPw)){
+//			mv.setViewName("login_success");
+//			mv.addObject("msg", "로그인 성공입니다.!");
+//			mv.addObject("loginId", userId);
+//			
+//		}else{
+//			mv.setViewName("login_error");
+//		}
+//		return mv;
+//	}
 }

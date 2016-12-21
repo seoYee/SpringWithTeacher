@@ -11,6 +11,7 @@
 <form action="login.do" method="post">
 	ID:<input type="text" name="userId" size="10"><br>
 	PW:<input type="password" name="userPw" size="10"><br>
+	숫자입력:<input type="number" name="num" size="10"><br>
 	<input type="submit" value="로그인">
 
 </form>
