@@ -1,7 +1,0 @@
-package ver5;
-
-public class KoreaTire implements Tire{
-	public String getModel(){
-		return "국산";
-	}
-}

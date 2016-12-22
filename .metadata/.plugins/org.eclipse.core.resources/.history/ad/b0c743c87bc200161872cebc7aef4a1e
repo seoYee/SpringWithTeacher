@@ -1,9 +1,0 @@
-package ver6;
-
-public class ChinaTire implements Tire{
-	public String getModel(){
-		return "대륙";
-	}
-
-
-}
